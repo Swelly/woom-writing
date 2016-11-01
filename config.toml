@@ -1,0 +1,14 @@
+siteTitle = "woom"
+siteDescr = "Creative writings of Michelle Woods"
+siteAuthor = "Michelle Woods"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
