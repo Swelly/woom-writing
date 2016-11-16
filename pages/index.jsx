@@ -33,6 +33,7 @@ class SiteIndex extends React.Component {
                       <p dangerouslySetInnerHTML={ {    __html: description} } />
                       <Link className='readmore' to={ prefixLink(page.path) }> Read
                       </Link>
+
                     </div>
                 )
             }
